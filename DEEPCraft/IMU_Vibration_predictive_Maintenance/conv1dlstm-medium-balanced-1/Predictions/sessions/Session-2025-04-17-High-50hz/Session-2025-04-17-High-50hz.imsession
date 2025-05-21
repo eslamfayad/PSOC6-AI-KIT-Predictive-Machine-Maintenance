@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImagimobStudio version="0.9">
+  <Timeline id="e4cbbb72-3f4e-4a4a-a347-1705f861523d">
+    <Tracks>
+      <Track name="conv1dlstm-medium-balanced-10" type="datacsv" isLabelTrack="False">
+        <PayloadFile>conv1dlstm-medium-balanced-10.data</PayloadFile>
+        <Shape />
+      </Track>
+      <Track name="label" type="labelcsv">
+        <PayloadFile>label.label</PayloadFile>
+      </Track>
+    </Tracks>
+  </Timeline>
+</ImagimobStudio>

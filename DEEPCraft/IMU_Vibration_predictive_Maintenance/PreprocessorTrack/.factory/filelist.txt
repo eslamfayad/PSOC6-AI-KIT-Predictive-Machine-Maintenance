@@ -1,0 +1,6 @@
+..\..\..\IMU_vibration_collection\Session-2025-04-17-High-50hz\IMU-Data.data; ..\Session-2025-04-17-High-50hz\IMU-Data_Preprocessor.data
+..\..\..\IMU_vibration_collection\Session-2025-04-17-Normal-Horizontal\IMU-Data.data; ..\Session-2025-04-17-Normal-Horizontal\IMU-Data_Preprocessor.data
+..\..\..\IMU_vibration_collection\Session-2025-04-17-normal-vertical_left\IMU-Data.data; ..\Session-2025-04-17-normal-vertical_left\IMU-Data_Preprocessor.data
+..\..\..\IMU_vibration_collection\Session-2025-04-17-Normal-Vertical-Right\IMU-Data.data; ..\Session-2025-04-17-Normal-Vertical-Right\IMU-Data_Preprocessor.data
+..\..\..\IMU_vibration_collection\Session-2025-04-17-Normal-vertical-UP\IMU-Data.data; ..\Session-2025-04-17-Normal-vertical-UP\IMU-Data_Preprocessor.data
+..\..\..\IMU_vibration_collection\Session-2025-04-17-Vacum_low-high\IMU-Data.data; ..\Session-2025-04-17-Vacum_low-high\IMU-Data_Preprocessor.data

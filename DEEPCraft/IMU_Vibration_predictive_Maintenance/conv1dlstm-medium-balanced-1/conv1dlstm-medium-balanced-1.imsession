@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImagimobStudio version="0.9">
+  <Timeline id="fe6744ee-7b1b-4451-9e7d-ce338da31342">
+    <Tracks>
+      <Track name="conv1dlstm-medium-balanced-1_preprocessor_and_network_test_input" type="datacsv" isLabelTrack="False">
+        <PayloadFile>conv1dlstm-medium-balanced-1_preprocessor_and_network_test_input.data</PayloadFile>
+        <Shape />
+      </Track>
+      <Track name="conv1dlstm-medium-balanced-1_preprocessor_and_network_test_output" type="datacsv" isLabelTrack="False">
+        <PayloadFile>conv1dlstm-medium-balanced-1_preprocessor_and_network_test_output.data</PayloadFile>
+        <Shape />
+      </Track>
+      <Track name="label" type="labelcsv">
+        <PayloadFile>label.label</PayloadFile>
+        <Shape />
+      </Track>
+      <Track name="Live Labeling" type="labelcsv">
+        <PayloadFile>Live Labeling.label</PayloadFile>
+      </Track>
+    </Tracks>
+  </Timeline>
+</ImagimobStudio>
